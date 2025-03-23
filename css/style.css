@@ -1,0 +1,42 @@
+@import 'https://fonts.googleapis.com/css?family=Montserrat|Open+Sans';
+
+.navbar {
+    height: 100px;
+    padding: 20px 10px;
+}
+
+img {
+    width: 300px;
+    height: 80px;
+}
+
+/* .navbar-brand {
+    position: relative;
+    background-size: contain;
+    font-weight: bold;
+    
+}
+
+.navbar-brand img {
+    margin-right: 10px;
+  } */
+
+.nav-link {
+   font-size: rem !important;
+   font-family: 'Open Sans', sans-serif;
+   letter-spacing: 3px;
+   font-size: 1.1rem;
+   color: rgb(218, 165, 32)!important;
+   margin-left: 50px;
+   margin-top: 20px;
+}
+
+ul {
+    margin-right: 20px;
+    
+}
+
+.nav-link:hover {
+    color:white !important;
+    /* font-size: larger; */
+}
